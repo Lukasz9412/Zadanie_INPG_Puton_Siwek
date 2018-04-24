@@ -1,6 +1,5 @@
 #include <iostream>
-using namespace std;
-
+#include "header.hpp"
 int checkPrimeNumber(int);
 
 using namespace std;
