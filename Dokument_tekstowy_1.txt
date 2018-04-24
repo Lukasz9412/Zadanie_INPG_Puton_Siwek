@@ -1,6 +1,6 @@
 LOLOLOLOLOLO
 
-using namespace std;
+using namespace std;daadsads
 
 int convertBinarytoOctal(long long);
 int main()
