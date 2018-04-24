@@ -1,5 +1,5 @@
 #include <iostream>//1233456789cnvn
-using namespace std;costam zmiana
+Lukasz Puton gwiazda AiR-u
 
 int checkPrimeNumber(int);
 
