@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+aasadzaad
 struct student
 {
     char name[50];
