@@ -4,7 +4,7 @@ aasadzaad
 struct studentsrhgsrth etrtj
 {
     char name[50];
-    int roll;
+    int roll;dasdaa
     float marks;
 };
 

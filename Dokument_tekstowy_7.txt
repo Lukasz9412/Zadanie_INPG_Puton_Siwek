@@ -1,9 +1,7 @@
 #include <iostream>
 using namespace std;
-sldjhfkjsdf
-sdkfhsjdfho
-int main()
-{
+int main()sadads
+{asdads
     string str = "C++ Programming is awesome";
     char checkCharacter = 'a';
     int count = 0;

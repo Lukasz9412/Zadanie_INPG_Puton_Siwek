@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
-sgdgsg
-int main()
-{ghjdjhd btrd h
+int main()dadas
+{assa
     int i, n;
     float arr[100];
 

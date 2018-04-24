@@ -1,6 +1,6 @@
 siemano kolano
 #include <cmath>
-
+sdaddassaas
 using namespace std;
 
 int convertBinarytoOctal(long long);
