@@ -1,4 +1,4 @@
-#include <cmath>Tu powienien byc konflikt
+#include <cmath>Tu powinien byæ konfliktblabal
 
 using namespace std;
 
