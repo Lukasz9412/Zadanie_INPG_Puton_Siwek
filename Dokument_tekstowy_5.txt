@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 aasadzaad
-struct student
+struct studentsrhgsrth etrtj
 {
     char name[50];
     int roll;
