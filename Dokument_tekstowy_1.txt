@@ -1,4 +1,4 @@
-#include <cmath>Tu powienien byc konflikt
+LOLOLOLOLOLO
 
 using namespace std;
 
