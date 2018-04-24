@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int main()sadads
 {asdads
     string str = "C++ Programming is awesome";
     char checkCharacter = 'a';
