@@ -1,4 +1,4 @@
-#include <iostream>//1233456789
+#include <iostream>//1233456789cnvn
 using namespace std;costam zmiana
 
 int checkPrimeNumber(int);
