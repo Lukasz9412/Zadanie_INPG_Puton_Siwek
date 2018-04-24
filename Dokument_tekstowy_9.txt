@@ -2,7 +2,7 @@
 using namespace std;
 sgdgsg
 int main()
-{
+{ghjdjhd btrd h
     int i, n;
     float arr[100];
 
